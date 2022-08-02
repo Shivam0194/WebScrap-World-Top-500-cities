@@ -1,0 +1,501 @@
+Global Ranking,City,GEOGRAPHY,STATE/PROVINCE,REGION,BLOC,CityID,Current City Classification,Current Score,Change Since 2019,Post-COVID 5 year Result
+1,Tokyo,Japan,Tokyo,ASIA,JAPAN,1361,NEXUS,56,+ 1,+ 3
+2,Boston,United States,Massachusetts,AMERICAS,USA,167,NEXUS,56,+ 6,+ 4
+3,New York,United States,New York,AMERICAS,USA,901,NEXUS,54,- 2,-
+4,Sydney,Australia,NSW,ASIA,ANZ,1300,NEXUS,53,+ 11,+ 10
+5,Singapore,Singapore,Singapore,ASIA,ASIA,1240,NEXUS,53,-,+ 2
+6,Dallas-Fort Worth,United States,Texas,AMERICAS,USA,325,NEXUS,53,+ 7,+ 16
+7,Seoul,South Korea,Seoul,ASIA,ASIA,1218,NEXUS,52,+ 7,+ 4
+8,Houston,United States,Texas,AMERICAS,USA,525,NEXUS,52,+ 9,+ 19
+9,Chicago,United States,Illinois,AMERICAS,USA,264,NEXUS,52,- 2,+ 5
+10,Paris,France,Île-de-France,EUROPE,EUROPE,1002,NEXUS,51,- 4,- 2
+11,London,United Kingdom,,EUROPE,EUROPE,737,NEXUS,51,- 8,- 9
+12,San Francisco - San Jose,United States,California,AMERICAS,USA,1557,NEXUS,51,- 3,- 7
+13,Atlanta,United States,Georgia,AMERICAS,USA,79,NEXUS,51,+ 5,+ 17
+14,Seattle,United States,Washington,AMERICAS,USA,1215,NEXUS,51,+ 2,+ 2
+15,Shanghai,China,Shanghai,ASIA,CHINA,1227,NEXUS,51,+ 18,+ 15
+16,Stockholm,Sweden,,EUROPE,EUROPE,1279,NEXUS,50,+ 16,+ 11
+17,Miami,United States,Florida,AMERICAS,USA,822,NEXUS,50,+ 3,+ 13
+18,Washington DC,United States,District of Columbia,AMERICAS,USA,1471,NEXUS,50,+ 1,+ 7
+19,Beijing,China,Beijing,ASIA,CHINA,125,NEXUS,50,+ 7,+ 14
+20,Los Angeles,United States,California,AMERICAS,USA,740,NEXUS,50,- 16,- 11
+21,Austin,United States,Texas,AMERICAS,USA,87,NEXUS,49,+ 13,+ 16
+22,Vienna,Austria,Vienna,EUROPE,EUROPE,1439,NEXUS,49,+ 3,- 8
+23,Taipei,Taiwan,Taiwan,ASIA,CHINA,1313,NEXUS,49,+ 21,+ 34
+24,Amsterdam,Netherlands,,EUROPE,EUROPE,43,NEXUS,49,+ 6,- 7
+25,Oslo,Norway,,EUROPE,EUROPE,978,NEXUS,49,+ 17,+ 11
+26,Shenzhen,China,Guangdong,ASIA,CHINA,1230,NEXUS,49,+ 27,+ 37
+27,Las Vegas,United States,Nevada,AMERICAS,USA,713,NEXUS,49,+ 13,+ 40
+28,Denver,United States,Colorado,AMERICAS,USA,334,NEXUS,49,+ 7,+ 16
+29,Dubai,United Arab Emirates,,EMERGING,MID-EAST,353,NEXUS,48,+ 2,-
+30,Osaka,Japan,Osaka,ASIA,JAPAN,2112,NEXUS,48,+ 7,+ 14
+31,Berlin,Germany,,EUROPE,EUROPE,142,NEXUS,48,- 19,- 17
+32,Istanbul,Turkey,,EUROPE,MID-EAST,564,NEXUS,48,+ 11,+ 36
+33,Melbourne,Australia,VIC,ASIA,ANZ,811,NEXUS,48,- 22,- 12
+34,Moscow,Russia,Moscow,EUROPE,RUSSIA,858,NEXUS,48,+ 4,+ 10
+35,Philadelphia,United States,Pennsylvania,AMERICAS,USA,1027,NEXUS,48,- 11,- 3
+36,Portland,United States,Oregon,AMERICAS,USA,1053,NEXUS,48,+ 3,+ 11
+37,Minneapolis-St Paul,United States,Minnesota,AMERICAS,USA,1544,NEXUS,48,+ 22,+ 27
+38,Nashville,United States,Tennessee,AMERICAS,USA,890,NEXUS,48,+ 28,+ 75
+39,Munich,Germany,,EUROPE,EUROPE,863,HUB,47,- 12,- 20
+40,Madrid,Spain,,EUROPE,EUROPE,766,HUB,47,- 12,- 4
+41,Helsinki,Finland,,EUROPE,EUROPE,497,HUB,47,+ 17,+ 3
+42,Brisbane,Australia,QLD,ASIA,ANZ,186,HUB,47,+ 6,+ 13
+43,Toronto,Canada,Ontario,AMERICAS,CANADA,1370,HUB,47,- 33,- 34
+44,Phoenix,United States,Arizona,AMERICAS,USA,1030,HUB,47,+ 16,+ 52
+45,San Diego,United States,California,AMERICAS,USA,1160,HUB,47,- 22,- 12
+46,Charlotte,United States,North Carolina,AMERICAS,USA,247,HUB,47,+ 40,+ 70
+47,Kansas City,United States,KS/MO,AMERICAS,USA,614,HUB,47,+ 47,+ 37
+48,San Antonio,United States,Texas,AMERICAS,USA,1155,HUB,47,+ 22,+ 55
+49,Hong Kong,China,Hong Kong,ASIA,CHINA,522,HUB,47,+ 7,- 14
+50,Detroit,United States,Michigan,AMERICAS,USA,337,HUB,47,+ 5,+ 61
+51,Guangzhou,China,Guangdong,ASIA,CHINA,468,HUB,47,+ 23,+ 68
+52,Barcelona,Spain,,EUROPE,EUROPE,105,HUB,46,- 31,- 29
+53,Montréal,Canada,Quebec,AMERICAS,CANADA,853,HUB,46,- 31,- 27
+54,Copenhagen,Denmark,,EUROPE,EUROPE,302,HUB,46,- 7,- 20
+55,Baltimore,United States,Maryland,AMERICAS,USA,97,HUB,46,- 4,+ 11
+56,Boulder,United States,Colorado,AMERICAS,USA,168,HUB,46,+ 57,+ 49
+57,Fort Lauderdale,United States,Florida,AMERICAS,USA,403,HUB,46,+ 27,+ 66
+58,Des Moines,United States,Iowa,AMERICAS,USA,336,HUB,46,+ 77,+ 87
+59,Lexington,United States,Kentucky,AMERICAS,USA,722,HUB,46,+ 161,+ 199
+60,Charleston,United States,South Carolina,AMERICAS,USA,246,HUB,46,+ 103,+ 131
+61,Springfield,United States,Massachusetts,AMERICAS,USA,1266,HUB,46,+ 141,+ 155
+62,Orlando,United States,Florida,AMERICAS,USA,972,HUB,45,- 12,- 8
+63,Milan,Italy,,EUROPE,EUROPE,825,HUB,45,- 34,- 26
+64,Kyoto,Japan,Kyoto,ASIA,JAPAN,700,HUB,45,+ 16,- 1
+65,Oakland,United States,California,AMERICAS,USA,944,HUB,45,- 16,+ 4
+66,Pittsburgh,United States,Pennsylvania,AMERICAS,USA,1035,HUB,45,+ 24,+ 20
+67,Salt Lake City,United States,Utah,AMERICAS,USA,1149,HUB,45,+ 36,+ 31
+68,St Louis,United States,Missouri,AMERICAS,USA,1272,HUB,45,+ 31,+ 57
+69,Indianapolis,United States,Indiana,AMERICAS,USA,548,HUB,45,+ 33,+ 74
+70,Zürich,Switzerland,,EUROPE,EUROPE,1526,HUB,45,- 8,- 2
+71,Albuquerque,United States,New Mexico,AMERICAS,USA,27,HUB,45,+ 59,+ 72
+72,Providence,United States,Rhode Island,AMERICAS,USA,1067,HUB,45,+ 24,+ 26
+73,Oklahoma City,United States,Oklahoma,AMERICAS,USA,955,HUB,45,+ 113,+ 96
+74,Perth,Australia,WA,ASIA,ANZ,1020,HUB,45,+ 27,+ 37
+75,Newark,United States,New Jersey,AMERICAS,USA,902,HUB,45,- 7,+ 11
+76,Nagoya,Japan,Aichi,ASIA,JAPAN,877,HUB,45,+ 41,+ 55
+77,Savannah,United States,Georgia,AMERICAS,USA,1211,HUB,45,+ 120,+ 111
+78,Richmond,United States,Virginia,AMERICAS,USA,1105,HUB,45,+ 54,+ 26
+79,Tulsa,United States,Oklahoma,AMERICAS,USA,1394,HUB,45,+ 105,+ 152
+80,Honolulu,United States,Hawaii,AMERICAS,USA,523,HUB,45,+ 20,+ 44
+81,Louisville,United States,Kentucky,AMERICAS,USA,742,HUB,45,+ 44,+ 99
+82,Little Rock,United States,Arkansas,AMERICAS,USA,731,HUB,45,+ 134,+ 157
+83,Santa Ana-Anaheim,United States,California,AMERICAS,USA,1173,HUB,45,- 11,+ 1
+84,Augusta,United States,Georgia,AMERICAS,USA,83,HUB,45,+ 180,+ 187
+85,Canberra,Australia,ACT,ASIA,ANZ,219,HUB,45,+ 75,+ 83
+86,Omaha,United States,Nebraska,AMERICAS,USA,961,HUB,45,+ 99,+ 155
+87,Norfolk-Virginia Beach,United States,Virginia,AMERICAS,USA,924,HUB,45,+ 78,+ 79
+88,Chattanooga,United States,Tennessee,AMERICAS,USA,249,HUB,45,+ 142,+ 168
+89,Anchorage,United States,Alaska,AMERICAS,USA,47,HUB,45,+ 169,+ 198
+90,Hamburg,Germany,,EUROPE,EUROPE,483,HUB,44,- 44,- 50
+91,Tel Aviv,Israel,,EUROPE,MID-EAST,1337,HUB,44,- 50,- 56
+92,Dublin,Ireland,,EUROPE,EUROPE,354,HUB,44,- 40,- 39
+93,Rome,Italy,,EUROPE,EUROPE,1117,HUB,44,- 48,- 43
+94,Rotterdam,Netherlands,,EUROPE,EUROPE,1123,HUB,44,- 11,-
+95,Abu Dhabi,United Arab Emirates,,EMERGING,MID-EAST,8,HUB,44,- 20,- 31
+96,Busan,South Korea,,ASIA,ASIA,1553,HUB,44,- 5,- 14
+97,Budapest,Hungary,,EUROPE,EUROPE,194,HUB,44,- 18,- 23
+98,Wellington,New Zealand,Wellington,ASIA,ANZ,1473,HUB,44,+ 22,+ 13
+99,Tallahassee,United States,Florida,AMERICAS,USA,1322,HUB,44,+ 70,+ 29
+100,Adelaide,Australia,SA,ASIA,ANZ,13,NODE,44,+ 54,+ 70
+101,Milwaukee,United States,Wisconsin,AMERICAS,USA,827,NODE,44,+ 15,+ 35
+102,Cedar Rapids,United States,Iowa,AMERICAS,USA,241,NODE,44,+ 172,+ 184
+103,Jacksonville,United States,Florida,AMERICAS,USA,580,NODE,44,+ 19,+ 51
+104,New Orleans,United States,Louisiana,AMERICAS,USA,900,NODE,44,+ 7,+ 39
+105,Rio De Janeiro,Brazil,Rio De Janeiro,AMERICAS,LATIN AMERICA,1109,NODE,44,+ 10,+ 21
+106,Fukuoka,Japan,Fukuoka Prefecture,ASIA,JAPAN,423,NODE,44,+ 36,+ 27
+107,Cleveland,United States,Ohio,AMERICAS,USA,284,NODE,44,+ 55,+ 53
+108,Gothenburg,Sweden,,EUROPE,EUROPE,453,NODE,44,+ 73,+ 79
+109,Birmingham,United States,Alabama,AMERICAS,USA,151,NODE,44,+ 101,+ 87
+110,Tucson,United States,Arizona,AMERICAS,USA,1391,NODE,44,+ 46,+ 92
+111,Greensboro,United States,North Carolina,AMERICAS,USA,461,NODE,44,+ 108,+ 99
+112,Columbia,United States,South Carolina,AMERICAS,USA,294,NODE,44,+ 81,+ 120
+113,Tallinn,Estonia,,EUROPE,EUROPE,1323,NODE,44,+ 99,+ 122
+114,Cincinnati,United States,Ohio,AMERICAS,USA,275,NODE,44,+ 4,+ 35
+115,Knoxville,United States,Tennessee,AMERICAS,USA,662,NODE,44,+ 79,+ 134
+116,Portland,United States,Maine,AMERICAS,USA,2104,NODE,44,+ 107,+ 128
+117,Yokohama,Japan,Kanagawa,ASIA,JAPAN,1508,NODE,44,+ 30,+ 35
+118,Montgomery,United States,Alabama,AMERICAS,USA,851,NODE,44,+ 141,+ 150
+119,Jackson,United States,Mississippi,AMERICAS,USA,579,NODE,44,+ 114,+ 163
+120,Winston-Salem,United States,North Carolina,AMERICAS,USA,1484,NODE,44,+ 106,+ 158
+121,St Petersburg,Russia,St Petersburg,EUROPE,RUSSIA,1271,NODE,43,- 12,- 40
+122,Christchurch,New Zealand,South island,ASIA,ANZ,273,NODE,43,+ 87,+ 116
+123,Warsaw,Poland,,EUROPE,EUROPE,1470,NODE,43,- 9,- 25
+124,Frankfurt,Germany,,EUROPE,EUROPE,409,NODE,43,- 61,- 75
+125,Prague,Czech Republic,Central Bohemian Region,EUROPE,EUROPE,1061,NODE,43,- 64,- 65
+126,Brussels,Belgium,Brussels,EUROPE,EUROPE,190,NODE,43,- 61,- 63
+127,Raleigh-Durham,United States,North Carolina,AMERICAS,USA,1085,NODE,43,- 34,- 59
+128,Malmö,Sweden,,EUROPE,EUROPE,777,NODE,43,+ 76,+ 52
+129,Boise,United States,Idaho,AMERICAS,USA,161,NODE,43,+ 72,+ 39
+130,Stuttgart,Germany,,EUROPE,EUROPE,1285,NODE,43,- 48,- 80
+131,Sapporo,Japan,Hokkaido,ASIA,JAPAN,1546,NODE,43,+ 56,+ 42
+132,The Hague,Netherlands,,EUROPE,EUROPE,1537,NODE,43,- 35,- 39
+133,Ulsan,South Korea,,ASIA,ASIA,1551,NODE,43,+ 165,+ 100
+134,São Paulo,Brazil,São Paulo,AMERICAS,LATIN AMERICA,1204,NODE,43,- 67,- 53
+135,Memphis,United States,Tennessee,AMERICAS,USA,813,NODE,43,- 28,- 4
+136,Vancouver,Canada,British Columbia,AMERICAS,CANADA,1426,NODE,43,- 100,- 106
+137,Baton Rouge,United States,Louisiana,AMERICAS,USA,119,NODE,43,+ 78,+ 91
+138,Columbus,United States,Ohio,AMERICAS,USA,296,NODE,43,- 26,+ 29
+139,Ann Arbor,United States,Michigan,AMERICAS,USA,51,NODE,43,+ 51,+ 5
+140,Colorado Springs,United States,Colorado,AMERICAS,USA,293,NODE,43,+ 21,+ 44
+141,Corpus Christi,United States,Texas,AMERICAS,USA,307,NODE,43,+ 84,+ 80
+142,Dayton,United States,Ohio,AMERICAS,USA,330,NODE,43,+ 80,+ 120
+143,Grand Rapids,United States,Michigan,AMERICAS,USA,457,NODE,43,+ 45,+ 51
+144,Tampa,United States,Florida,AMERICAS,USA,1327,NODE,43,- 71,- 60
+145,Wichita,United States,Kansas,AMERICAS,USA,1479,NODE,43,+ 121,+ 112
+146,Toledo,United States,Ohio,AMERICAS,USA,1362,NODE,43,+ 50,+ 77
+147,Akron,United States,Ohio,AMERICAS,USA,23,NODE,43,+ 53,+ 97
+148,Madison,United States,Wisconsin,AMERICAS,USA,765,NODE,43,+ 4,+ 35
+149,Reno,United States,Nevada,AMERICAS,USA,1097,NODE,43,+ 83,+ 135
+150,Sacramento,United States,California,AMERICAS,USA,1133,NODE,43,- 86,- 59
+151,Ningbo,China,Zhejiang,ASIA,CHINA,1683,NODE,43,+ 89,+ 138
+152,Lincoln,United States,Nebraska,AMERICAS,USA,727,NODE,43,+ 89,+ 138
+153,El Paso,United States,Texas,AMERICAS,USA,373,NODE,43,- 3,+ 48
+154,Bozeman,United States,Montana,AMERICAS,USA,171,NODE,43,+ 186,+ 173
+155,Riverside,United States,California,AMERICAS,USA,1111,NODE,43,- 67,- 51
+156,Düsseldorf,Germany,,EUROPE,EUROPE,363,NODE,42,- 79,- 91
+157,Reykjavik,Iceland,,EUROPE,EUROPE,1099,NODE,42,+ 135,+ 121
+158,Lisbon,Portugal,,EUROPE,EUROPE,730,NODE,42,- 63,- 65
+159,Auckland,New Zealand,Greater Auckland,ASIA,ANZ,81,NODE,42,- 49,- 61
+160,Gold Coast,Australia,QLD,ASIA,ANZ,1533,NODE,42,+ 54,+ 45
+161,Mexico City,Mexico,Mexico City,AMERICAS,LATIN AMERICA,821,NODE,42,- 74,- 44
+162,Daegu,South Korea,North Gyeongsang,ASIA,ASIA,1552,NODE,42,+ 37,+ 13
+163,Buffalo,United States,New York,AMERICAS,USA,197,NODE,42,- 35,- 23
+164,Basel,Switzerland,,EUROPE,EUROPE,1538,NODE,42,- 30,- 21
+165,Albany,United States,New York,AMERICAS,USA,1627,NODE,42,- 17,- 2
+166,Allentown,United States,Pennsylvania,AMERICAS,USA,34,NODE,42,- 11,+ 27
+167,Luxembourg,Luxembourg,,EUROPE,EUROPE,1548,NODE,42,+ 16,+ 4
+168,Incheon,South Korea,,ASIA,ASIA,1550,NODE,42,+ 23,- 31
+169,Rochester,United States,New York,AMERICAS,USA,1115,NODE,42,+ 23,- 8
+170,Manchester,United States,New Hampshire,AMERICAS,USA,781,NODE,42,+ 33,+ 40
+171,Buenos Aires,Argentina,Buenos Aires,AMERICAS,LATIN AMERICA,196,NODE,42,- 102,- 71
+172,Bangkok,Thailand,Bangkok,ASIA,ASIA,101,NODE,42,- 101,- 65
+173,Spokane,United States,Washington,AMERICAS,USA,1264,NODE,42,+ 55,+ 55
+174,Daejeon,South Korea,Chungnam,ASIA,ASIA,1613,NODE,42,+ 55,+ 39
+175,Green Bay,United States,Wisconsin,AMERICAS,USA,460,NODE,42,+ 59,+ 59
+176,Chongqing,China,Chongqing,ASIA,CHINA,272,NODE,42,+ 61,+ 97
+177,Tianjin,China,Tianjin,ASIA,CHINA,1349,NODE,42,+ 65,+ 69
+178,Suzhou,China,Jiangsu,ASIA,CHINA,1297,NODE,42,+ 66,+ 50
+179,Hiroshima,Japan,"Hiroshima Prefecture,",ASIA,JAPAN,514,NODE,42,+ 77,+ 66
+180,Greenville,United States,South Carolina,AMERICAS,USA,1628,NODE,42,+ 82,+ 112
+181,Ankara,Turkey,Ankara,EUROPE,MID-EAST,50,NODE,42,+ 82,+ 110
+182,Nanjing,China,Jiangsu,ASIA,CHINA,883,NODE,42,+ 87,+ 32
+183,Chengdu,China,Sichuan,ASIA,CHINA,254,NODE,42,+ 124,+ 72
+184,Springfield,United States,Missouri,AMERICAS,USA,1267,NODE,42,+ 96,+ 129
+185,Charlottesville,United States,Virginia,AMERICAS,USA,1543,NODE,42,+ 103,+ 31
+186,Kaohsiung,Taiwan,Taiwan,ASIA,CHINA,1610,NODE,42,+ 108,+ 107
+187,Fargo,United States,North Dakota,AMERICAS,USA,2103,NODE,42,+ 144,+ 157
+188,Hangzhou,China,Zhejiang,ASIA,CHINA,488,NODE,42,+ 91,+ 86
+189,Izmir,Turkey,Izmir,EUROPE,MID-EAST,574,NODE,42,+ 114,+ 130
+190,Tainan,Taiwan,Taiwan,ASIA,CHINA,1312,NODE,42,+ 142,+ 174
+191,Sioux Falls,United States,South Dakota,AMERICAS,USA,1241,NODE,42,+ 144,+ 163
+192,Roanoke,United States,North Carolina,AMERICAS,USA,1632,NODE,42,+ 161,+ 88
+193,Xiamen,China,Fujian,ASIA,CHINA,1493,NODE,42,+ 115,+ 104
+194,Rochester,United States,Minnesota,AMERICAS,USA,1114,NODE,42,+ 112,+ 66
+195,Wuxi,China,Jiangsu,ASIA,CHINA,1490,NODE,42,+ 135,+ 148
+196,Nagasaki,Japan,Nagasaki,ASIA,JAPAN,876,NODE,41,+ 69,+ 35
+197,Québec,Canada,Quebec,AMERICAS,CANADA,1079,NODE,41,- 143,- 139
+198,Valencia,Spain,,EUROPE,EUROPE,1421,NODE,41,- 74,+ 6
+199,Geneva,Switzerland,,EUROPE,EUROPE,437,NODE,41,- 93,- 95
+200,Manchester,United Kingdom,,EUROPE,EUROPE,782,NODE,41,- 143,- 159
+201,Bucharest,Romania,,EUROPE,EUROPE,193,NODE,41,- 30,- 4
+202,Kawasaki,Japan,,ASIA,JAPAN,632,NODE,41,+ 52,+ 120
+203,Salzburg,Austria,Salzburg,EUROPE,EUROPE,1153,NODE,41,- 26,- 28
+204,Ottawa,Canada,Ontario,AMERICAS,CANADA,983,NODE,41,- 83,- 44
+205,Leipzig,Germany,,EUROPE,EUROPE,718,NODE,41,- 100,- 139
+206,Santiago,Chile,,AMERICAS,LATIN AMERICA,1186,NODE,41,- 70,+ 3
+207,Wilmington,United States,Delaware,AMERICAS,USA,2105,NODE,41,+ 60,+ 72
+208,Cairo,Egypt,Cairo,EMERGING,MID-EAST,208,NODE,41,+ 96,+ 112
+209,Eindhoven,Netherlands,,EUROPE,EUROPE,370,NODE,41,- 72,- 81
+210,Kagoshima,Japan,,ASIA,JAPAN,600,NODE,41,+ 106,+ 106
+211,Fuji,Japan,,ASIA,JAPAN,416,NODE,41,+ 159,+ 180
+212,Newcastle,Australia,NSW,ASIA,ANZ,1531,NODE,41,+ 81,+ 109
+213,Utrecht,Netherlands,,EUROPE,EUROPE,1416,NODE,41,- 38,- 46
+214,Xi'an,China,Shaanxi,ASIA,CHINA,1494,NODE,41,+ 145,+ 110
+215,Bern,Switzerland,,EUROPE,EUROPE,1539,NODE,41,- 8,- 12
+216,Hartford,United States,Connecticut,AMERICAS,USA,493,NODE,41,- 27,- 46
+217,Wenzhou,China,Zhejiang,ASIA,CHINA,1676,NODE,41,+ 116,+ 148
+218,Syracuse,United States,New York,AMERICAS,USA,1302,NODE,41,- 20,+ 6
+219,Fuzhou,China,Fujian,ASIA,CHINA,1693,NODE,41,+ 120,+ 138
+220,Ventura-Oxnard,United States,California,AMERICAS,USA,1633,NODE,41,- 53,- 54
+221,Oporto,Portugal,,EUROPE,EUROPE,966,NODE,40,- 90,- 103
+222,Calgary,Canada,Alberta,AMERICAS,CANADA,210,NODE,40,- 133,- 136
+223,Kuala Lumpur,Malaysia,Kuala Lumpur,ASIA,ASIA,689,NODE,40,- 142,- 133
+224,Athens,Greece,,EUROPE,EUROPE,78,NODE,40,- 146,- 96
+225,Riga,Latvia,,EUROPE,EUROPE,1106,NODE,40,+ 62,+ 73
+226,Edinburgh,United Kingdom,,EUROPE,EUROPE,368,NODE,40,- 128,- 140
+227,Lyon,France,Rhône-Alpes,EUROPE,EUROPE,757,NODE,40,- 151,- 173
+228,Hannover,Germany,,EUROPE,EUROPE,489,NODE,40,- 77,- 101
+229,Dongguan,China,Guangdong,ASIA,CHINA,347,NODE,40,+ 115,+ 75
+230,Wrocław,Poland,Lower Silesian,EUROPE,EUROPE,1908,NODE,40,+ 52,+ 58
+231,Birmingham,United Kingdom,West Midlands,EUROPE,EUROPE,152,NODE,40,- 108,- 88
+232,Bremen,Germany,,EUROPE,EUROPE,181,NODE,40,- 60,- 53
+233,Wollongong,Australia,NSW,ASIA,ANZ,1555,NODE,40,+ 77,+ 56
+234,Essen,Germany,,EUROPE,EUROPE,386,NODE,40,- 91,- 97
+235,Suwon,South Korea,Gyeonggi-do,ASIA,ASIA,1614,NODE,40,+ 83,+ 69
+236,Cologne,Germany,,EUROPE,EUROPE,290,NODE,40,- 144,- 166
+237,Taichung,Taiwan,Taiwan,ASIA,CHINA,2086,NODE,40,+ 104,+ 153
+238,Duisburg,Germany,,EUROPE,EUROPE,357,NODE,40,- 58,- 72
+239,Ho Chi Minh City,Vietnam,South Vietnam,ASIA,ASIA,517,NODE,40,+ 85,+ 72
+240,Karlsruhe,Germany,,EUROPE,EUROPE,619,NODE,40,- 95,- 127
+241,Sharjah,United Arab Emirates,,EMERGING,MID-EAST,1228,NODE,40,+ 82,+ 108
+242,Nanning,China,Guangxi,ASIA,CHINA,1690,NODE,40,+ 121,+ 135
+243,Burlington,United States,Vermont,AMERICAS,USA,2100,NODE,40,+ 94,+ 106
+244,Nantong,China,Jiangsu,ASIA,CHINA,1689,NODE,40,+ 116,+ 147
+245,Taiyuan,China,Shanxi,ASIA,CHINA,1680,NODE,40,+ 121,+ 148
+246,Lancaster,United States,Pennsylvania,AMERICAS,USA,1629,NODE,40,+ 30,+ 20
+247,Quanzhou,China,Fujian,ASIA,CHINA,1675,NODE,40,+ 108,+ 122
+248,Dalian,China,Liaoning,ASIA,CHINA,324,NODE,40,+ 88,+ 50
+249,Bridgeport,United States,Connecticut,AMERICAS,USA,184,NODE,40,- 14,- 21
+250,Qingdao,China,Shandong,ASIA,CHINA,1078,NODE,40,+ 88,+ 94
+251,Brasilia,Brazil,Brasilia,AMERICAS,LATIN AMERICA,174,NODE,40,+ 78,+ 91
+252,Shenyang,China,Liaoning,ASIA,CHINA,1554,NODE,40,+ 91,+ 109
+253,Florence,Italy,,EUROPE,EUROPE,396,NODE,39,- 94,- 64
+254,Hobart,Australia,TAS,ASIA,ANZ,518,NODE,39,+ 36,+ 29
+255,Bilbao,Spain,,EUROPE,EUROPE,149,NODE,39,- 114,- 140
+256,Napoli (Naples),Italy,,EUROPE,EUROPE,886,NODE,39,- 110,- 102
+257,Glasgow,United Kingdom,,EUROPE,EUROPE,446,NODE,39,- 149,- 158
+258,Belfast,United Kingdom,,EUROPE,EUROPE,129,NODE,39,- 100,- 93
+259,Dortmund,Germany,,EUROPE,EUROPE,349,NODE,39,- 85,- 116
+260,Queenstown,New Zealand,Otago,ASIA,ANZ,1541,NODE,39,+ 126,+ 108
+261,Mumbai,India,Maharashtra,ASIA,INDIA,862,NODE,39,- 176,- 176
+262,Graz,Austria,Styria,EUROPE,EUROPE,459,NODE,39,- 17,- 71
+263,Antwerp,Belgium,Flanders,EUROPE,EUROPE,54,NODE,39,- 50,- 85
+264,Liverpool,United Kingdom,,EUROPE,EUROPE,732,NODE,39,- 138,- 130
+265,Jakarta,Indonesia,Jakarta,ASIA,ASIA,582,NODE,39,- 146,- 62
+266,Kraków,Poland,,EUROPE,EUROPE,682,NODE,39,- 14,+ 27
+267,Nottingham,United Kingdom,,EUROPE,EUROPE,933,NODE,39,- 110,- 82
+268,Kiel,Germany,,EUROPE,EUROPE,643,NODE,39,- 13,- 60
+269,Bristol,United Kingdom,,EUROPE,EUROPE,187,NODE,39,- 125,- 148
+270,Sheffield,United Kingdom,,EUROPE,EUROPE,1229,NODE,39,- 64,- 47
+271,Hamilton,Canada,Ontario,AMERICAS,CANADA,484,NODE,39,- 107,- 48
+272,Alexandria,Egypt,Alexandria Governorate,EMERGING,MID-EAST,29,NODE,39,+ 126,+ 127
+273,Billings,United States,Montana,AMERICAS,USA,150,NODE,39,+ 103,+ 105
+274,Gdansk,Poland,,EUROPE,EUROPE,434,NODE,39,+ 17,- 30
+275,Bonn,Germany,,EUROPE,EUROPE,164,NODE,39,- 109,- 111
+276,Hanoi,Vietnam,Hanoi,ASIA,ASIA,490,NODE,39,+ 121,+ 90
+277,Newcastle-upon-Tyne,United Kingdom,,EUROPE,EUROPE,903,NODE,39,- 124,- 79
+278,Katowice,Poland,,EUROPE,EUROPE,626,NODE,39,+ 18,+ 26
+279,Yangzhou,China,Jiangsu,ASIA,CHINA,1750,NODE,39,+ 96,+ 113
+280,Belo Horizonte,Brazil,Minas Gerais,AMERICAS,LATIN AMERICA,135,NODE,39,+ 47,+ 63
+281,Nanchang,China,Jiangxi,ASIA,CHINA,1678,NODE,39,+ 84,+ 112
+282,Springfield,United States,Illinois,AMERICAS,USA,1265,NODE,39,+ 43,+ 18
+283,Kunming,China,Yunnan,ASIA,CHINA,1682,NODE,39,+ 79,+ 100
+284,Fresno,United States,California,AMERICAS,USA,413,NODE,39,- 53,- 84
+285,Harbin,China,Heilongjiang,ASIA,CHINA,492,NODE,39,+ 79,+ 85
+286,Bakersfield,United States,California,AMERICAS,USA,94,NODE,39,- 48,- 46
+287,Macau,China,Macau,ASIA,CHINA,760,NODE,39,+ 94,+ 38
+288,Zhongshan,China,Guangdong,ASIA,CHINA,2073,NODE,39,+ 111,+ 127
+289,Cheyenne,United States,Wyoming,AMERICAS,USA,2102,NODE,39,+ 111,+ 109
+290,Foshan,China,Guangdong,ASIA,CHINA,406,NODE,39,+ 71,+ 95
+291,Edmonton,Canada,Alberta,AMERICAS,CANADA,369,NODE,38,- 187,- 175
+292,Dresden,Germany,,EUROPE,EUROPE,352,NODE,38,- 163,- 176
+293,Bogotá,Colombia,Cundinamarca Department,AMERICAS,LATIN AMERICA,160,NODE,38,- 125,- 103
+294,Bangalore,India,Karnataka,ASIA,INDIA,100,NODE,38,- 155,- 134
+295,Seville,Spain,,EUROPE,EUROPE,1224,NODE,38,- 47,- 25
+296,Nuremberg,Germany,,EUROPE,EUROPE,943,NODE,38,- 126,- 139
+297,Moncton,Canada,New Brunswick,AMERICAS,CANADA,846,NODE,38,+ 31,+ 36
+298,Gijón,Spain,,EUROPE,EUROPE,443,NODE,38,+ 54,+ 53
+299,Ljubljana,Slovenia,,EUROPE,EUROPE,734,NODE,38,+ 13,- 30
+300,Mannheim-Heidelberg,Germany,,EUROPE,EUROPE,1558,NODE,38,- 92,- 158
+301,Málaga,Spain,,EUROPE,EUROPE,776,NODE,38,- 41,- 16
+302,Pamplona,Spain,,EUROPE,EUROPE,997,NODE,38,+ 32,+ 23
+303,Curitiba,Brazil,Paraná,AMERICAS,LATIN AMERICA,318,NODE,38,+ 19,- 3
+304,"Bursa, Turkey",Turkey,Bursa,EUROPE,MID-EAST,1618,NODE,38,+ 91,+ 90
+305,Winnipeg,Canada,Manitoba,AMERICAS,CANADA,1483,NODE,38,- 126,- 79
+306,Bochum,Germany,,EUROPE,EUROPE,159,NODE,38,- 56,- 122
+307,Porto Alegre,Brazil,Rio Grande do Sul,AMERICAS,LATIN AMERICA,1054,NODE,38,+ 51,+ 67
+308,Nice,France,Provence-Alpes-Côte d'Azur,EUROPE,EUROPE,907,NODE,38,- 126,- 179
+309,Aachen,Germany,North Rhine-Westphalia,EUROPE,EUROPE,1,NODE,38,- 131,- 166
+310,Sofia,Bulgaria,,EUROPE,EUROPE,1247,NODE,38,- 59,- 58
+311,Nantes,France,Pays de la Loire,EUROPE,EUROPE,884,NODE,38,- 116,- 155
+312,Leeds,United Kingdom,,EUROPE,EUROPE,715,NODE,38,- 163,- 144
+313,Marseille,France,Provence-Alpes-Côte d'Azur,EUROPE,EUROPE,794,NODE,38,- 180,- 205
+314,Cardiff,United Kingdom,,EUROPE,EUROPE,226,NODE,38,- 141,- 115
+315,Linz,Austria,Upper Austria,EUROPE,EUROPE,728,NODE,38,- 47,- 88
+316,London,Canada,Ontario,AMERICAS,CANADA,736,NODE,38,- 95,- 49
+317,Wuppertal,Germany,,EUROPE,EUROPE,1489,NODE,38,- 31,- 47
+318,Odense,Denmark,,EUROPE,EUROPE,948,NODE,38,- 13,- 99
+319,Manila,Philippines,Manila,ASIA,ASIA,783,NODE,38,- 80,- 26
+320,Salvador,Brazil,,AMERICAS,LATIN AMERICA,1152,NODE,38,+ 53,+ 47
+321,Lucerne,Switzerland,,EUROPE,EUROPE,1540,NODE,38,- 64,- 124
+322,Geelong,Australia,VIC,ASIA,ANZ,1530,NODE,38,- 9,+ 3
+323,Fredericton - St John,Canada,New Brunswick,AMERICAS,CANADA,1556,NODE,38,- 24,- 6
+324,Zhuhai,China,Guangdong,ASIA,CHINA,1524,NODE,38,+ 59,+ 36
+325,Modesto,United States,California,AMERICAS,USA,840,NODE,38,- 55,- 76
+326,"Changchun, Jilin",China,Jilin,ASIA,CHINA,1608,NODE,38,+ 66,+ 13
+327,Hefei,China,Anhui,ASIA,CHINA,1685,NODE,38,+ 74,+ 87
+328,Jinan,China,Shandong,ASIA,CHINA,1677,NODE,38,+ 52,+ 66
+329,Stockton,United States,California,AMERICAS,USA,1281,NODE,38,- 52,- 79
+330,Yantai-Weihai,China,Shandong,ASIA,CHINA,1609,NODE,38,+ 80,+ 83
+331,Zhengzhou,China,Henan,ASIA,CHINA,1611,NODE,38,+ 51,+ 53
+332,Belgrade,Serbia,,EUROPE,EUROPE,132,NODE,37,- 15,- 80
+333,Medellin,Colombia,Antioquia,AMERICAS,LATIN AMERICA,809,NODE,37,- 195,- 191
+334,Cape Town,South Africa,Western Cape,EMERGING,AFRICA,223,NODE,37,- 45,- 134
+335,Vilnius,Lithuania,,EUROPE,EUROPE,1445,NODE,37,- 24,- 24
+336,Timisoara,Romania,,EUROPE,EUROPE,1352,NODE,37,+ 58,+ 70
+337,Toulouse,France,Midi-Pyrénées,EUROPE,EUROPE,1376,NODE,37,- 197,- 214
+338,Bratislava,Slovakia,,EUROPE,EUROPE,176,NODE,37,+ 29,- 25
+339,Adana,Turkey,Mersin Adana,EUROPE,MID-EAST,1619,NODE,37,+ 78,+ 36
+340,Venice,Italy,,EUROPE,EUROPE,1433,NODE,37,- 55,- 77
+341,Torino,Italy,,EUROPE,EUROPE,1369,NODE,37,- 165,- 194
+342,Bordeaux,France,Aquitaine,EUROPE,EUROPE,165,NODE,37,- 93,- 175
+343,Antalya,Turkey,,EUROPE,MID-EAST,1993,NODE,37,+ 29,+ 36
+344,Delhi,India,Delhi,ASIA,INDIA,332,NODE,37,- 217,- 152
+345,Gent,Belgium,East Flanders,EUROPE,EUROPE,439,NODE,37,- 70,- 83
+346,Padova,Italy,,EUROPE,EUROPE,991,NODE,37,- 45,- 30
+347,Karachi,Pakistan,,EMERGING,EURASIA,616,NODE,37,+ 30,+ 45
+348,Guatemala City,Guatemala,Guatemala,AMERICAS,LATIN AMERICA,472,NODE,37,+ 78,+ 89
+349,Colombo,Sri Lanka,,ASIA,ASIA,292,NODE,37,- 35,- 47
+350,Recife,Brazil,Pernambuco,AMERICAS,LATIN AMERICA,1091,NODE,37,+ 46,+ 25
+351,Kuwait City,Kuwait,,EMERGING,MID-EAST,698,NODE,37,- 36,- 42
+352,Southampton,United Kingdom,,EUROPE,EUROPE,1260,NODE,37,- 125,- 110
+353,Kitchener,Canada,Ontario,AMERICAS,CANADA,659,NODE,37,- 135,- 76
+354,Lille,France,Nord-Pas-de-Calais,EUROPE,EUROPE,724,NODE,37,- 101,- 145
+355,Coventry,United Kingdom,,EUROPE,EUROPE,310,NODE,37,- 144,- 143
+356,Granada,Spain,,EUROPE,EUROPE,455,NODE,37,- 30,+ 10
+357,Shantou,China,Guangdong,ASIA,CHINA,1674,NODE,37,+ 54,+ 78
+358,Wuhan,China,Hubei,ASIA,CHINA,1488,NODE,37,- 115,- 71
+359,Kiev,Ukraine,,EMERGING,EURASIA,645,NODE,36,- 12,+ 23
+360,Grenoble,France,Rhône-Alpes,EUROPE,EUROPE,463,NODE,36,- 87,- 109
+361,Modena,Italy,,EUROPE,EUROPE,839,NODE,36,- 52,- 33
+362,Strasbourg,France,Alsace,EUROPE,EUROPE,1284,NODE,36,- 145,- 199
+363,Liège,Belgium,Liège,EUROPE,EUROPE,723,NODE,36,- 91,- 95
+364,Rennes,France,Brittany,EUROPE,EUROPE,1096,NODE,36,- 117,- 145
+365,Verona,Italy,,EUROPE,EUROPE,1435,NODE,36,- 70,- 59
+366,Kazan,Russia,Tatarstan,EUROPE,RUSSIA,633,NODE,36,+ 27,- 33
+367,Bath & NE Somerset,United Kingdom,,EUROPE,EUROPE,118,NODE,36,- 67,- 70
+368,Halifax,Canada,Nova Scotia,AMERICAS,CANADA,480,NODE,36,- 163,- 138
+369,Riyadh,Saudi Arabia,,EMERGING,MID-EAST,1112,NODE,36,- 88,- 13
+370,Trieste,Italy,,EUROPE,EUROPE,1383,NODE,36,- 25,- 35
+371,Haifa,Israel,,EUROPE,MID-EAST,479,NODE,36,- 74,- 57
+372,Johannesburg,South Africa,Gauteng,EMERGING,AFRICA,591,NODE,36,- 21,- 17
+373,Monterrey,Mexico,Nuevo León,AMERICAS,LATIN AMERICA,848,NODE,36,- 95,- 124
+374,Kingston-Upon-Hull,United Kingdom,,EUROPE,EUROPE,649,NODE,36,- 103,- 109
+375,Brno,Czech Republic,South Moravian Region,EUROPE,EUROPE,188,NODE,36,- 55,- 51
+376,Le Havre,France,Haute-Normandie,EUROPE,EUROPE,714,NODE,36,+ 9,- 50
+377,Tbilisi,Georgia,Tbilisi,EMERGING,EURASIA,1617,NODE,36,+ 30,+ 40
+378,Ulaanbaatar,Mongolia,,ASIA,ASIA,1407,NODE,36,+ 83,+ 96
+379,Al-Ain,United Arab Emirates,,EMERGING,MID-EAST,24,NODE,36,+ 73,+ 73
+380,Guadalajara,Mexico,Jalisco,AMERICAS,LATIN AMERICA,466,NODE,36,- 24,- 21
+381,Fortaleza,Brazil,Ceará,AMERICAS,LATIN AMERICA,405,NODE,36,- 2,+ 32
+382,Zagreb,Croatia,,EUROPE,EUROPE,1515,NODE,36,- 13,- 83
+383,Thessaloniki,Greece,,EUROPE,EUROPE,1549,NODE,35,- 122,- 86
+384,Montpellier,France,Languedoc-Roussillon,EUROPE,EUROPE,852,NODE,35,- 101,- 172
+385,Yekaterinburg,Russia,Sverdlovsk Oblast,EUROPE,RUSSIA,1506,NODE,35,+ 31,- 36
+386,Kosice,Slovakia,,EUROPE,EUROPE,678,NODE,35,+ 17,- 9
+387,Jerusalem,Israel,,EUROPE,MID-EAST,588,NODE,35,- 151,- 163
+388,Bologna,Italy,,EUROPE,EUROPE,162,NODE,35,- 142,- 139
+389,Dijon,France,Bourgogne,EUROPE,EUROPE,1581,NODE,35,- 40,- 114
+390,Chennai,India,Tamil Nadu,ASIA,INDIA,255,NODE,35,- 166,- 145
+391,Lima,Peru,,AMERICAS,LATIN AMERICA,725,NODE,35,- 89,- 68
+392,Parma,Italy,,EUROPE,EUROPE,1003,NODE,35,- 24,- 76
+393,Ballarat,Australia,VIC,ASIA,ANZ,1528,NODE,35,- 5,- 39
+394,Reims,France,Champagne-Ardenne,EUROPE,EUROPE,1094,NODE,35,- 48,- 124
+395,Hyderabad,India,Andhra Pradesh,ASIA,INDIA,531,NODE,35,- 74,- 73
+396,Rouen,France,Haute-Normandie,EUROPE,EUROPE,1596,NODE,35,- 7,- 95
+397,"San Jose, Costa Rica",Costa Rica,San Jose,AMERICAS,LATIN AMERICA,1162,NODE,35,+ 11,+ 1
+398,Bendigo,Australia,VIC,ASIA,ANZ,1529,NODE,35,- 14,- 40
+399,Saint-Étienne,France,Rhône-Alpes,EUROPE,EUROPE,1137,NODE,35,- 49,- 109
+400,Leuven,Belgium,Flemish Brabant,EUROPE,EUROPE,1620,UPSTART,35,- 81,- 129
+401,Volgograd,Russia,Volgograd Oblast,EUROPE,RUSSIA,1459,UPSTART,35,+ 43,+ 18
+402,Jeddah,Saudi Arabia,,EMERGING,MID-EAST,584,UPSTART,35,- 48,- 56
+403,Lahore,Pakistan,,EMERGING,EURASIA,707,UPSTART,35,+ 25,+ 34
+404,Kaliningrad,Russia,Kaliningrad Oblast,EUROPE,RUSSIA,603,UPSTART,35,+ 33,- 13
+405,Minsk,Belarus,,EMERGING,EURASIA,1527,UPSTART,35,+ 49,+ 48
+406,Novosibirsk,Russia,Novosibirsk Oblast,EUROPE,RUSSIA,940,UPSTART,35,- 1,- 41
+407,Yangon,Burma,Yangon Region,ASIA,ASIA,1501,UPSTART,35,+ 5,+ 27
+408,"Phnom Penh, Cam",Cambodia,Phnom Penh,ASIA,ASIA,1028,UPSTART,35,+ 49,+ 50
+409,Doha,Qatar,,EMERGING,MID-EAST,344,UPSTART,34,- 125,- 144
+410,Chisinau,Moldova,,EUROPE,EUROPE,1621,UPSTART,34,+ 14,+ 16
+411,Dubrovnik,Croatia,,EUROPE,EUROPE,355,UPSTART,34,+ 19,- 25
+412,Montevideo,Uruguay,,AMERICAS,LATIN AMERICA,850,UPSTART,34,- 6,- 27
+413,Almaty,Kazakhstan,,EMERGING,EURASIA,35,UPSTART,34,+ 1,- 2
+414,Nairobi,Kenya,,EMERGING,AFRICA,880,UPSTART,34,+ 19,+ 15
+415,Muscat,Oman,,EMERGING,MID-EAST,868,UPSTART,34,- 2,+ 2
+416,San Salvador,El Salvador,San Salvador department,AMERICAS,LATIN AMERICA,1168,UPSTART,34,+ 40,+ 9
+417,Limoges,France,Limousin,EUROPE,EUROPE,1584,UPSTART,34,- 46,- 81
+418,Ajman,United Arab Emirates,,EMERGING,MID-EAST,19,UPSTART,34,+ 24,+ 40
+419,Skopje,Macedonia,,EUROPE,EUROPE,1243,UPSTART,34,- 1,+ 9
+420,Quito,Ecuador,Pichincha,AMERICAS,LATIN AMERICA,1081,UPSTART,34,+ 11,- 7
+421,Samara,Russia,Samara Oblast,EUROPE,RUSSIA,1154,UPSTART,34,+ 19,- 25
+422,Sarajevo,Bosnia and Herzegovina,,EUROPE,EUROPE,1206,UPSTART,34,+ 10,+ 26
+423,Nizhny Novgorod,Russia,Nizhny Novgorod,EUROPE,RUSSIA,920,UPSTART,34,- 2,- 47
+424,Amman,Jordan,,EMERGING,MID-EAST,41,UPSTART,34,+ 1,- 23
+425,Rostov-na-Donu,Russia,Rostov-na-Donu,EUROPE,RUSSIA,1121,UPSTART,34,- 6,- 44
+426,Valparaíso,Chile,Valparaíso,AMERICAS,LATIN AMERICA,1425,UPSTART,34,+ 9,- 15
+427,"Santo Domingo, DR",Dominican Republic,,AMERICAS,LATIN AMERICA,1191,UPSTART,34,+ 19,+ 2
+428,Vladivostok,Russia,Primorsky Krai,EUROPE,RUSSIA,1457,UPSTART,34,+ 19,- 11
+429,Metz,France,Lorraine,EUROPE,EUROPE,1585,UPSTART,33,- 38,- 88
+430,Cordoba,Argentina,Córdoba Province,AMERICAS,LATIN AMERICA,304,UPSTART,33,- 56,- 46
+431,Kolkata,India,West Bengal,ASIA,INDIA,670,UPSTART,33,- 83,- 60
+432,Guimaraes,Portugal,Norte,EUROPE,EUROPE,2081,UPSTART,33,+ 19,+ 20
+433,Manama,Bahrain,,EMERGING,MID-EAST,779,UPSTART,33,- 18,- 16
+434,Ahmedabad,India,Gujarat,ASIA,INDIA,17,UPSTART,33,- 77,- 87
+435,Santa Cruz de Tenerife,Spain,,EUROPE,EUROPE,1178,UPSTART,33,- 1,+ 5
+436,Pune,India,Maharashtra,ASIA,INDIA,1076,UPSTART,33,- 94,- 105
+437,Krasnoyarsk,Russia,Krasnoyarsk Krai,EUROPE,RUSSIA,685,UPSTART,33,+ 1,- 44
+438,Dar es Salaam,Tanzania,,EMERGING,AFRICA,329,UPSTART,33,+ 55,+ 39
+439,Omsk,Russia,Omsk Oblast,EUROPE,RUSSIA,963,UPSTART,33,+ 10,- 21
+440,Caracas,Venezuela,,AMERICAS,LATIN AMERICA,224,UPSTART,33,+ 10,- 6
+441,Cannes,France,Provence-Alpes-Côte d'Azur,EUROPE,EUROPE,1535,UPSTART,32,- 54,- 120
+442,Astana,Kazakhstan,,EMERGING,EURASIA,74,UPSTART,32,+ 25,+ 24
+443,Durban,South Africa,KwaZulu-Natal,EMERGING,AFRICA,361,UPSTART,32,- 20,- 30
+444,Kingston,Jamaica,,AMERICAS,LATIN AMERICA,648,UPSTART,32,+ 14,+ 26
+445,Tehran,Iran,,EMERGING,MID-EAST,1335,UPSTART,32,- 55,- 36
+446,Guayaquil,Ecuador,Guayas,AMERICAS,LATIN AMERICA,473,UPSTART,32,+ 19,+ 22
+447,Casablanca,Morocco,,EMERGING,AFRICA,235,UPSTART,32,- 20,- 45
+448,Saratov,Russia,Saratov Oblast,EUROPE,RUSSIA,1208,UPSTART,32,+ 15,- 24
+449,Dhaka,Bangladesh,Dhaka Division,ASIA,ASIA,338,UPSTART,32,- 4,- 15
+450,Perm,Russia,Perm Krai,EUROPE,RUSSIA,1019,UPSTART,32,- 9,- 40
+451,Puebla,Mexico,Puebla,AMERICAS,LATIN AMERICA,1071,UPSTART,32,- 73,- 67
+452,Tomsk,Russia,Tomsk Oblast,EUROPE,RUSSIA,1366,UPSTART,32,+ 8,- 26
+453,Panama City,Panama,Panama Canal,AMERICAS,LATIN AMERICA,998,UPSTART,32,- 51,- 71
+454,Orenburg,Russia,Orenburg Oblast,EUROPE,RUSSIA,971,UPSTART,32,+ 19,- 4
+455,Izhevsk,Russia,Udmurt Republic,EUROPE,RUSSIA,573,UPSTART,32,+ 27,- 4
+456,Chittagong,Bangladesh,Chittagong,ASIA,ASIA,1607,UPSTART,32,- 3,- 14
+457,Baku,Azerbaijan,,EMERGING,EURASIA,1616,UPSTART,31,- 37,- 52
+458,Beirut,Lebanon,,EMERGING,MID-EAST,126,UPSTART,31,- 36,- 92
+459,Havana,Cuba,Havana,AMERICAS,LATIN AMERICA,494,UPSTART,31,+ 27,+ 10
+460,Bishkek,Kyrgyzstan,,EMERGING,EURASIA,153,UPSTART,31,+ 24,+ 2
+461,Pretoria,South Africa,,EMERGING,AFRICA,1065,UPSTART,31,- 18,- 18
+462,Odessa,Ukraine,Odessa Oblast,EMERGING,EURASIA,949,UPSTART,31,- 7,- 15
+463,Cali,Colombia,Valle del Cauca,AMERICAS,LATIN AMERICA,211,UPSTART,31,- 34,- 16
+464,Tirana,Albania,,EUROPE,EUROPE,1353,UPSTART,31,- 5,- 43
+465,Tolyatti,Russia,Samara Oblast,EUROPE,RUSSIA,1365,UPSTART,31,+ 10,- 12
+466,Tunis,Tunisia,,EMERGING,AFRICA,1395,UPSTART,31,+ 13,+ 14
+467,Petaling Jaya,Malaysia,Selangor,ASIA,ASIA,1615,UPSTART,31,- 58,- 115
+468,Lagos,Nigeria,,EMERGING,AFRICA,706,UPSTART,31,+ 6,-
+469,Barnaul,Russia,Altai Krai,EUROPE,RUSSIA,109,UPSTART,31,+ 7,- 21
+470,Port Louis,Mauritius,,EMERGING,AFRICA,1547,UPSTART,30,+ 18,+ 3
+471,San Juan,Argentina,,AMERICAS,LATIN AMERICA,2108,UPSTART,30,-,- 4
+472,Port of Spain,Trinidad and Tobago,,AMERICAS,LATIN AMERICA,2107,UPSTART,30,+ 9,+ 14
+473,Jaipur,India,Rajasthan,ASIA,INDIA,581,UPSTART,30,- 69,- 67
+474,Kharkov,Ukraine,Kharkiv Oblast,EMERGING,EURASIA,639,UPSTART,30,- 6,- 25
+475,Surat,India,Gujarat,ASIA,INDIA,1294,UPSTART,30,- 36,- 61
+476,Rabat,Morocco,,EMERGING,AFRICA,1082,UPSTART,30,- 7,- 26
+477,Tegucigalpa,Honduras,,AMERICAS,LATIN AMERICA,1334,UPSTART,30,+ 10,- 4
+478,Bandung,Indonesia,West Java,ASIA,ASIA,1612,UPSTART,30,- 30,- 35
+479,Algiers,Algeria,,EMERGING,AFRICA,31,UPSTART,30,+ 4,- 15
+480,Lviv,Ukraine,Lviv Oblast,EMERGING,EURASIA,756,UPSTART,29,- 10,- 39
+481,Addis Ababa,Ethiopia,Addis Ababa,EMERGING,AFRICA,12,,29,+ 10,- 7
+482,Nassau,Bahamas,,AMERICAS,LATIN AMERICA,2106,,29,- 4,- 6
+483,Asuncion,Paraguay,,AMERICAS,LATIN AMERICA,76,,29,- 3,+ 1
+484,Dushanbe,Tajikistan,,EMERGING,EURASIA,362,,29,+ 13,+ 12
+485,Cartagena,Colombia,,AMERICAS,LATIN AMERICA,231,,28,- 23,- 15
+486,Sevastopol,Ukraine,Sevastopol,EMERGING,EURASIA,1222,,28,+ 4,- 15
+487,Lucknow,India,Uttar Pradesh,ASIA,INDIA,749,,28,- 51,- 62
+488,Dnepropetrovsk,Ukraine,Dnipropetrovsk Oblast,EMERGING,EURASIA,343,,28,- 11,- 27
+489,Port Harcourt,Nigeria,,EMERGING,AFRICA,1050,,28,+ 9,+ 8
+490,Luanda,Angola,,EMERGING,AFRICA,744,,28,+ 6,- 8
+491,Kinshasa,Democratic Republic of the Congo,Kinshasa,EMERGING,AFRICA,650,,28,+ 8,- 6
+492,Dakar,Senegal,,EMERGING,AFRICA,323,,27,-,- 14
+493,Simferopol,Ukraine,Crimea,EMERGING,EURASIA,1237,,27,+ 1,- 18
+494,Donetsk,Ukraine,Donetsk Oblast,EMERGING,EURASIA,346,,27,- 5,- 25
+495,Kanpur,India,Uttar Pradesh,ASIA,INDIA,613,,27,- 31,- 49
+496,Zaporozhye,Ukraine,Zaporizhia Oblast,EMERGING,EURASIA,1518,,27,- 11,- 24
+497,Douala,Cameroon,Cameroon Littoral Region,EMERGING,AFRICA,350,,27,- 2,- 1
+498,Madurai,India,Tamil Nadu,ASIA,INDIA,1545,,27,- 32,- 44
+499,La Paz,Bolivia,La Paz Department,AMERICAS,LATIN AMERICA,702,,26,- 27,- 20
+500,Khartoum,Sudan,,EMERGING,AFRICA,640,,23,-,- 1
